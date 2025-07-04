@@ -11,6 +11,11 @@ It is eletrical and computer engineering heavy, but just chug through it
 This project unfortunately is not fully complete, (life gets in the way sometimes) But it can move data between 2 registers, and preform simple arithmetic with the ALU.
 
 
+Completed Modules:
+- Clock
+- Registers
+- ALU
+
 Recomended Tools:
 - IRWIN VISE-GRIP Wire Stripper
 - CHP PN-2006 Long-Nose Pliers
